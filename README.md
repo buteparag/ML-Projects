@@ -18,6 +18,10 @@ Connect with me:
 
 Languages and Tools:
 
-![twitter-image](https://user-images.githubusercontent.com/113009110/232026317-2d3e0c19-6409-4a31-ba18-62880b740a84.jpg)
-![download](https://user-images.githubusercontent.com/113009110/232026328-f2d2d762-655b-4dc0-ad94-8efc988cc05e.png)
+Google Colab,Anaconda Navigator
+
+Numpy,Pandas,Scikit,Matplotlib,sklearn
+
+
+
 
