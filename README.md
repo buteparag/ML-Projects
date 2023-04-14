@@ -1,5 +1,7 @@
 # ML-Projects![git hub img](https://user-images.githubusercontent.com/113009110/232023616-cda6cf0f-fee8-4165-8fdf-4a2da7094f93.jpg)
+
 Hi 👋, I am Parag Bute
+
 🔭 I’m currently working on Machine Learning
 
 🌱 I’m currently learning Deep Learning and Computer Vision
